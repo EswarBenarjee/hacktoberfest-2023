@@ -1,3 +1,4 @@
-Hacktoberfest 2023
+# Hacktoberfest 2023
 
-This is a beginner friendly repository made specifically for Hacktoberfest
+This is a beginner friendly repository made specifically for Hacktoberfest 2023
+
